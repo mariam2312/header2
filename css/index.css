@@ -1,0 +1,68 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.clear{
+    clear:both;
+}
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: rgb(245, 244, 244);
+}
+.header{
+    background-color: white;
+    width: 90%;
+    margin-left: 30px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    display: inline-block;
+    
+}
+li a{
+    display: block;
+    padding: 5px;
+    
+}
+.title{
+    color: rgb(112, 112, 114);
+}
+.star{
+    margin-right: 70px;
+}
+.head-img1{
+    width: 23px;
+    height: 13px;
+    margin-right: 5px;
+}
+.en{
+    color: rgb(151, 155, 155);
+    text-transform: capitalize;
+}
+.head-img2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+.shop-p{
+    margin-right: 20px;
+    
+}
+.aa{
+    text-decoration: none;
+    color: rgb(125, 125, 247);
+    margin-right: 10px;
+}
+.shop-ic i{
+    color: rgb(124, 124, 241);
+}
